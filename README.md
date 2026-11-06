@@ -172,11 +172,11 @@ This is an example output from the trained model, not a verified market valuatio
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/itz-me-sree/Indian-Used-Car-Price-Prediction.git
 cd Indian-Used-Car-Price-Prediction
 ```
 
-Replace `<your-github-repository-url>` with the URL of your GitHub repository.
+
 
 ### 2. Create and activate a virtual environment (recommended)
 
